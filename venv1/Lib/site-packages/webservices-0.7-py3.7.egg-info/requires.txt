@@ -1,0 +1,15 @@
+itsdangerous
+
+[consumer]
+requests
+
+[django]
+django
+requests
+
+[flask]
+flask
+requests
+
+[twisted]
+twisted
